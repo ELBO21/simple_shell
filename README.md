@@ -1,12 +1,12 @@
-# shellby - Simple Shell :shell:
+# Simple Shell 
 
 A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Holberton School.
 
-## Description :speech_balloon:
+## Description :
 
 **Shellby** is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
 
-### Invocation :running:
+### Invocation :
 
 Usage: **shellby** [filename]
 
@@ -283,5 +283,5 @@ $
 
 ## Authors :black_nib:
 
-* Aklilu Woldehana <[akliluwoldehana] (https://github.com/Henok100)>
+* Aklilu Woldehana <[akliluwoldehana] (https://github.com/akliluwoldehana)>
 * Biruk Merage <[BrookM21] (https://github.com/BrookM21)>
