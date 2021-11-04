@@ -283,5 +283,5 @@ $
 
 ## Authors :black_nib:
 
-* Aklilu Woldehana <[akliluwoldehana] (https://github.com/akliluwoldehana)>
-* Biruk Merage <[BrookM21] (https://github.com/BrookM21)>
+* Aklilu Woldehana <[akliluwoldehana](https://github.com/akliluwoldehana)>
+* Biruk Merage <[BrookM21](https://github.com/BrookM21)>
